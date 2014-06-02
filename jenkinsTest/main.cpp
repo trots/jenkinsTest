@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
   QFile file("TestFile.txt");
   file.open(QIODevice::ReadWrite);
   QTextStream out(&file);
-  out << "Hello, man!" << endl;
+  //out << "Hello, man!" << endl;
   file.close();
 
   return 0;
