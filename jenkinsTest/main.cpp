@@ -19,5 +19,5 @@ int main(int argc, char *argv[])
   out << "Hello, man! Yo!" << endl;
   file.close();
 
-  return 0;
+  return 1;
 }
