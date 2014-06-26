@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 {
   QCoreApplication a(argc, argv);
 
-  cout << "Hello, world" << edghghghherl;
+  cout << "Hello, world" << edghghgdfhherl;
   cout << "Hello, Jenkins" << endl;
 
   QFile file("TestFile.txt");
